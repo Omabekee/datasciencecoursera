@@ -1,4 +1,4 @@
-Untitled
+Pushing to GitHub from Rstudio
 ================
 
 ## GitHub Documents
